@@ -8,6 +8,16 @@ A three-layer license atlas for virtual-cell / virtual-embryo work — code, wei
 
 ---
 
+**永久标识 / Permanent DOI:** [10.5281/zenodo.24274064](https://doi.org/10.5281/zenodo.24274064)
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24274064.svg)
+版本 DOI 指向 v1.0.0；概念 DOI [10.5281/zenodo.24274063](https://doi.org/10.5281/zenodo.24274063) 自动指向全部版本。
+The version DOI above identifies v1.0.0; the concept DOI [10.5281/zenodo.24274063](https://doi.org/10.5281/zenodo.24274063) always resolves to the latest version.
+
+Archived copy: https://zenodo.org/records/24274064 (Zenodo, filed 2026-11-16)
+
+
+---
+
 ## 为什么需要它
 
 在这个领域里，「某个模型是 MIT」这句话通常是错的。真实情况有三种：
