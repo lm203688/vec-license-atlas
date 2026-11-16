@@ -15,6 +15,11 @@ The version DOI above identifies v1.0.0; the concept DOI [10.5281/zenodo.2427406
 
 Archived copy: https://zenodo.org/records/24274064 (Zenodo, filed 2026-11-16)
 
+**归档 / Archival:** 已由 Software Heritage 完整归档（full visit，2026-11-16），目录 SWHID `swh:1:dir:e254da75cf189092d9d88985371f8a6f0bf85ebf`：
+https://archive.softwareheritage.org/swh:1:dir:e254da75cf189092d9d88985371f8a6f0bf85ebf/
+快照 SWHID `swh:1:snp:0c3603a957b8450eed0452dc9c57341e720c78d5`。这份归档不依赖 GitHub，仓库将来改名或搬走，这棵树仍可读。
+
+
 
 ---
 
