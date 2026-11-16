@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this atlas in academic work, please cite it as below."
+type: software
+title: "vec-license-atlas: a three-layer license atlas for virtual-cell and virtual-embryo work (code / weights / data)"
+abstract: "A three-layer license atlas: for 27 projects in the virtual-cell and virtual-embryo ecosystem the code license, the model-weight license and the data terms are recorded separately, each row carrying an evidence URL, a detection method and a check date. Seven widespread misreadings are corrected against primary text. Ships a zero-dependency query CLI, a rebuild and invariant checker, and seven tests that run without pytest."
+authors:
+  - family-names: "Li"
+    given-names: "Xing"
+version: "v1.0.0"
+doi: "10.5281/zenodo.24274064"
+date-released: "2026-11-16"
+url: "https://github.com/lm203688/vec-license-atlas"
+repository-code: "https://github.com/lm203688/vec-license-atlas"
+license: MIT
+keywords:
+  - "license compliance"
+  - "virtual cell"
+  - "virtual embryo"
+  - "model weights licensing"
+  - "reproducibility"
+  - "open science"
